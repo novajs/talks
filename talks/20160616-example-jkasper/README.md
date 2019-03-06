@@ -1,4 +1,4 @@
-DCJS Meetup, June 16th, 2016
+NOVAJS Meetup, June 16th, 2016
 ============================
 
 Abstract

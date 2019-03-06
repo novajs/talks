@@ -1,4 +1,4 @@
-Hey everyone! We're going to be getting DCJS rolling again after far too long of a hiatus.
+Hey everyone! We're going to be getting NOVAJS rolling again after far too long of a hiatus.
 
 Our next meetup will be on June 16th at 6:30pm at the Iron Yard with a presentation from Jordan Kasper.
 
