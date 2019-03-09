@@ -13,10 +13,11 @@
 
 _We meet on the second Thursday of the month generally. You can use this handy-dandy list to check dates:_
 
-- [ ] NOVAJS[65] Thu Dec 13 2018
-- [ ] NOVAJS[66] Thu Jan 10 2019
-- [ ] NOVAJS[67] Thu Feb 14 2019
-- [ ] NOVAJS[68] Thu Mar 14 2019
-- [ ] NOVAJS[69] Thu Apr 11 2019
-- [ ] NOVAJS[70] Thu May 09 2019
-- [ ] NOVAJS[71] Thu Jun 13 2019
+- [ ] NOVAJS[65] Wed May 1 2019
+- [ ] NOVAJS[66] Wed Jun 5 2019
+- [ ] NOVAJS[67] Wed Jul 3 2019
+- [ ] NOVAJS[68] Wed Aug 7 2019
+- [ ] NOVAJS[69] Wed Sep 4 2019
+- [ ] NOVAJS[70] Wed Oct 2 2019
+- [ ] NOVAJS[71] Wed Nov 6 2019
+- [ ] NOVAJS[71] Wed Dec 4 2019
