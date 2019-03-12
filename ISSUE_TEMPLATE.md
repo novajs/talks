@@ -11,7 +11,7 @@
 
 **Available months:** [Example: July, Aug, Sept | Example: Not October | Example: All of them]
 
-_We meet on the second Thursday of the month generally. You can use this handy-dandy list to check dates:_
+_We meet on the first Wednesday of the month generally. You can use this handy-dandy list to check dates:_
 
 - [ ] NOVAJS[65] Wed May 1 2019
 - [ ] NOVAJS[66] Wed Jun 5 2019
