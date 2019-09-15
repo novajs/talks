@@ -13,11 +13,11 @@
 
 _We meet on the first Wednesday of the month generally. You can use this handy-dandy list to check dates:_
 
-- [ ] NOVAJS[65] Wed May 1 2019
-- [ ] NOVAJS[66] Wed Jun 5 2019
-- [ ] NOVAJS[67] Wed Jul 3 2019
-- [ ] NOVAJS[68] Wed Aug 7 2019
-- [ ] NOVAJS[69] Wed Sep 4 2019
-- [ ] NOVAJS[70] Wed Oct 2 2019
 - [ ] NOVAJS[71] Wed Nov 6 2019
-- [ ] NOVAJS[71] Wed Dec 4 2019
+- [ ] NOVAJS[72] Wed Dec 4 2019
+- [ ] NOVAJS[73] Wed Jan 8 2020
+- [ ] NOVAJS[74] Wed Feb 5 2020
+- [ ] NOVAJS[75] Wed Mar 4 2020
+- [ ] NOVAJS[76] Wed Apr 1 2020
+- [ ] NOVAJS[77] Wed May 6 2020
+- [ ] NOVAJS[78] Wed Jun 3 2020
