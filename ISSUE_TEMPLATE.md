@@ -21,3 +21,7 @@ _We meet on the first Wednesday of the month generally. You can use this handy-d
 - [ ] NOVAJS[76] Wed Apr 1 2020
 - [ ] NOVAJS[77] Wed May 6 2020
 - [ ] NOVAJS[78] Wed Jun 3 2020
+
+
+
+** By submitting this talk proposal, you are also acknowledging that you have read and agree to follow our [code of conduct](https://docs.google.com/document/d/1ieWUPCfzVcW7Uk7CAPfZAQlbGIjl9c2bc6urSiGwjeQ/edit)
