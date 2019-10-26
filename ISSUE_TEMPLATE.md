@@ -25,3 +25,5 @@ _We meet on the first Wednesday of the month generally. You can use this handy-d
 
 
 By submitting this talk proposal, you are also acknowledging that you have read and agree to follow our [code of conduct](https://docs.google.com/document/d/1ieWUPCfzVcW7Uk7CAPfZAQlbGIjl9c2bc6urSiGwjeQ/edit)
+
+- [ ] Please check here that you acknowledge and you agree to follow our code of conduct
